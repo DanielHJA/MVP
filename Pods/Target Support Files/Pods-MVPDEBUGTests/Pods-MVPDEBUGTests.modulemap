@@ -1,0 +1,6 @@
+framework module Pods_MVPDEBUGTests {
+  umbrella header "Pods-MVPDEBUGTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
